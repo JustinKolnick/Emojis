@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+
+	"name": "Emojis",
+	"version": "0.01",
+	"author": "justinkolnick@gmail.com",
+
+	"permissions": [
+		"tabs"
+	],
+
+	"browser_action": {
+		"default_icon": "pt.png",
+		"default_popup": "popup/index.html",
+		"default_title": "Emojis"
+	}
+}
